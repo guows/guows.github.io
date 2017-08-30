@@ -14,7 +14,7 @@
 div
 .holder2048 {
     width: 280px;
-    height: 380px;
+    height: 280px;
     position: relative;
     margin: 0 auto;
 }
