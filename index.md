@@ -107,9 +107,7 @@ div
 </head>
 	
 <body>
-<h5>
-  通过四个方向键移动
-</h5>
+<h5> <Center> 通过四个方向键移动 </Center></h5>
 <p><Center> 本游戏由Kingdark编译制作，如想相互交流，欢迎添加本人微信：<b>guo_qiuchen</b></Center></p>
 <p> <Center> 注意: 本游戏无法在 <b>Internet Explorer 9</b> 及<b>更早的版本</b>上运行！ </Center></p>
 
