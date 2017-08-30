@@ -2,6 +2,7 @@
 <head>
 <script src="https://cdn.bootcss.com/jquery/2.2.4/jquery.min.js"></script>
 <div class="container text-center" id="2048">
+
 </div>
 <script>
   $(document).ready(function () {
@@ -10,6 +11,11 @@
 </script>
 <meta charset="utf-8"> 
 <title>菜鸟教程(runoob.com)</title> 
+
+<body>
+<input type="button" value="再玩一次" onclick="replaceDoc()">
+</body>
+
 <style> 
 div
 .holder2048 {
@@ -105,10 +111,6 @@ div
 }
 </style>
 </head>
-
-<body>
-<input type="button" value="重新开始" onclick="replaceDoc()">
-</body>
 
 <body>
 <script>
