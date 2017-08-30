@@ -2,7 +2,6 @@
 <head>
 <script src="https://cdn.bootcss.com/jquery/2.2.4/jquery.min.js"></script>
 <div class="container text-center" id="2048">
-
 </div>
 <script>
   $(document).ready(function () {
