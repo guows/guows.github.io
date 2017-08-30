@@ -2,7 +2,7 @@
 <body><Center><input type="button" value="2048游戏" onclick="f();"></Center>
 </body>
 </html> 
- 
+
 <script>
 function f()
 {
