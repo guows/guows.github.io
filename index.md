@@ -6,7 +6,7 @@
 <script>
 function f()
 {
-window.location.href="https://guows.github.io";
+window.location.href=" https://guows.github.io/guowansong.github.io";
 }
 </script>	
 <body>
