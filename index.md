@@ -1,6 +1,9 @@
 <html>
 <head>
 <script src="https://cdn.bootcss.com/jquery/2.2.4/jquery.min.js"></script>
+<h5>
+  通过四个方向键移动
+</h5>
 <div class="container text-center" id="2048">
 </div>
 <script>
