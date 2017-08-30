@@ -1,5 +1,6 @@
 <html>
 <head>
+<script src="https://cdn.bootcss.com/jquery/2.2.4/jquery.min.js"></script>
 <h1>
   通过四个方向键移动
 </h1>
